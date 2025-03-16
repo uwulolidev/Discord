@@ -1,3 +1,6 @@
+**If you don't know how to compile by yourself, please download the pre compiled version .zip**
+
+
 # Some good practice when using DTP
 
 ## ✔️ If you use Discord on your browser, don't forget to disconnect from it after using it
